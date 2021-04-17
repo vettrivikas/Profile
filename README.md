@@ -39,7 +39,6 @@ Create attractive Online shopping Nush_clothin(Boostrap)
 <!--START_SECTION:activity-->
 <!-- 1. [UniMan (A Platform for Students to Manage Placements and check Attendence, Test Performance, etc..)](https://github.com/varksh05/UniMan) -->
 
-2. [MpWeb (Photography Website)](https://github.com/varksh05/mpWeb)
 <!--END_SECTION:activity-->
 </details>
 

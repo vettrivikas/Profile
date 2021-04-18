@@ -14,7 +14,7 @@
 
 2. [TechUtsav7.0 (SRM College Event Site created using Angular, Firebase)](https://github.com/vettrivikas/techutsav)
 
-3. [Survival Analysis Based on COVID -19 Patients(Final Year Project)]
+3. [Survival Analysis Based on COVID -19 Patients(Final Year Project)](https://github.com/vettrivikas/Survival_Analysis)
 
 4. [Create attractive Online shopping Nush_clothin(Boostrap)](https://vettrivikas.github.io/Nush_clothing/index.html)
 <!--END_SECTION:activity-->

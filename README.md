@@ -3,7 +3,7 @@
 ## I'm a Student, Future Data Scientist, Designer.
 
 - I’m a MCA Student at SRM IST - KTR Campus
-- I’m currently working on Intern
+- I’m looking for job 
 - I’m currently learning Data Engineer
 - 2021 Goals: Contribute more to Open Source projects in industrial
 - Hobbies : Designing / Editing / Gaming.

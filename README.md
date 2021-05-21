@@ -13,7 +13,7 @@
   
 1. [ETL(Transformation 5M data into Actional Insights)](https://github.com/vettrivikas/DataEngineering/blob/main/ETL/ETL_Process.ipynb)
 
-2. [(Twitter Sentiment Analysis Using Spark Streaming Kafka)](https://github.com/vettrivikas/DataEngineering)
+2. [Twitter Sentiment Analysis Using Spark Streaming Kafka](https://github.com/vettrivikas/DataEngineering)
 
 3. [TechUtsav7.0 (SRM College Event Site created using Angular, Firebase)](https://github.com/vettrivikas/techutsav)
 

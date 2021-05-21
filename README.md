@@ -23,7 +23,7 @@
 <details>
   <summary> UnderGoing Projects</summary>
 <!--START_SECTION:activity-->
-<!-- 1. [UniMan (A Platform for Students to Manage Placements and check Attendence, Test Performance, etc..)](https://github.com/varksh05/UniMan) -->
+1. [DataEngineering](https://github.com/vettrivikas/DataEngineering)
 
 <!--END_SECTION:activity-->
 </details>

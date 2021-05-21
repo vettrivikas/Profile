@@ -11,15 +11,15 @@
   <summary> Recently completed Projects</summary>
 <!--START_SECTION:activity-->
 <!-- 1. [My Resume(CV) Website](https://github.com/varksh05/valliyappan-portfolio) -->
-2. [Twitter Sentiment Analysis Using Spark Streaming Kafka ](https://github.com/vettrivikas/DataEngineering)
+1. [(Twitter Sentiment Analysis Using Spark Streaming Kafka)](https://github.com/vettrivikas/DataEngineering)
 
 2. [ETL(Transformation 5M data into Actional Insights)](https://github.com/vettrivikas/DataEngineering/blob/main/ETL/ETL_Process.ipynb)
 
-2. [TechUtsav7.0 (SRM College Event Site created using Angular, Firebase)](https://github.com/vettrivikas/techutsav)
+3. [TechUtsav7.0 (SRM College Event Site created using Angular, Firebase)](https://github.com/vettrivikas/techutsav)
 
-3. [Survival Analysis Based on COVID -19 Patients(Final Year Project)](https://github.com/vettrivikas/Survival_Analysis)
+4. [Survival Analysis Based on COVID -19 Patients(Final Year Project)](https://github.com/vettrivikas/Survival_Analysis)
 
-4. [Create attractive Online shopping Nush_clothin(Boostrap)](https://vettrivikas.github.io/Nush_clothing/index.html)
+5. [Create attractive Online shopping Nush_clothin(Boostrap)](https://vettrivikas.github.io/Nush_clothing/index.html)
 <!--END_SECTION:activity-->
 </details>
 

@@ -1,6 +1,6 @@
 ### Hi, I'm VETRI J 👋
 
-## I'm a Student, Junior Data Engineer, Designer.
+## I'm a Student, Data Engineer, Designer.
 
 - I’m a MCA Student at SRM IST - KTR Campus
 - I’m looking for job 

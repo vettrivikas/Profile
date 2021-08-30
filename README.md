@@ -11,7 +11,7 @@
   <summary> Recently completed Projects</summary>
 <!--START_SECTION:activity-->
   
-1. [ETL(Transformation 5M data into Actional Insights)](https://github.com/vettrivikas/DataEngineering/blob/main/ETL/ETL_Process.ipynb)
+1. [ETL(Transformation data into Actional Insights)](https://github.com/vettrivikas/DataEngineering/blob/main/ETL/ETL_Process.ipynb)
 
 2. [Twitter Sentiment Analysis Using Spark Streaming Kafka](https://github.com/vettrivikas/DataEngineering)
 
@@ -20,6 +20,8 @@
 4. [Survival Analysis Based on COVID -19 Patients(Final Year Project)](https://github.com/vettrivikas/Survival_Analysis)
 
 5. [Create attractive Online shopping Nush_clothin(Boostrap)](https://vettrivikas.github.io/Nush_clothing/index.html)
+
+6. [DataWarehouding Redshift, S3, DMS, EC2, Jenkins](https://vettrivikas.github.io/)
 <!--END_SECTION:activity-->
 </details>
 

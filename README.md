@@ -1,11 +1,10 @@
 ### Hi, I'm VETRI J 👋
 
-## Junior Data Engineer at ADF Data Science Pvt Ltd, Designer.
+## Junior Data Engineer at ADF Data Science Pvt Ltd.
 
 - I’m a MCA Student at SRM IST - KTR Campus
-- I’m looking for job 
 - I’m currently learning Data Engineer
-- 2021 Goals: Contribute more to Open Source projects in industrial
+- A Passionate Data enthusiast with huge aspirations towards innovation, digitalization and data.
 - Hobbies : Designing / Editing / Gaming.
 <details>
   <summary> Recently completed Projects</summary>

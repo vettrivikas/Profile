@@ -1,6 +1,6 @@
 ### Hi, I'm VETRI J 👋
 
-## Junior Data Engineer at ADF Data Science Pvt Ltd.
+## Data Engineer
 
 - I’m a MCA Student at SRM IST - KTR Campus
 - I’m currently learning Data Engineer

@@ -2,8 +2,8 @@
 
 ## Data Engineer
 
-- I’m a MCA Student at SRM IST - KTR Campus
-- I’m currently learning Data Engineer
+- As a dedicated data engineer, I actively contribute my expertise to diverse projects, demonstrating my proficiency in handling various challenges and ensuring the success of each initiative
+- I enjoy tackling new and unfamiliar problems—it's something I find interesting and fulfilling
 - A Passionate Data enthusiast with huge aspirations towards innovation, digitalization and data.
 - Hobbies : Designing / Editing / Gaming.
 <details>

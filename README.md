@@ -4,7 +4,7 @@
 
 - As a dedicated data engineer, I actively contribute my expertise to diverse projects, demonstrating my proficiency in handling various challenges and ensuring the success of each initiative
 - I enjoy tackling new and unfamiliar problems—it's something I find interesting and fulfilling
-- A Passionate Data enthusiast with huge aspirations towards innovation, digitalization and data.
+- I'm always excited to learn new things and open to adopting fresh ideas.
 - Hobbies : Designing / Editing / Gaming.
 <details>
   <summary> Recently completed Projects</summary>
